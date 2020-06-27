@@ -1,0 +1,10 @@
+?
+exit
+?
+exit
+cd .
+?
+exit
+?
+pwd
+exit
